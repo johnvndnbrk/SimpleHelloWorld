@@ -1,0 +1,7 @@
+JVB.Example.ConsoleApp/bin/
+packages/
+JVB.Example.Api.Tests/bin/
+JVB.Example.Api.Tests/obj/
+JVB.Example.Api/bin/
+JVB.Example.Api/obj/
+JVB.Example.ConsoleApp/obj/
